@@ -1,4 +1,4 @@
-# <pre>Zero-Day    <img src="https://user-images.githubusercontent.com/107026397/209780362-7bffc098-e7a2-4ecb-a078-6f62fba02e73.png" height = 5% width= 5%></pre>
+# <pre>Vagrant    <img src="https://user-images.githubusercontent.com/107026397/209780362-7bffc098-e7a2-4ecb-a078-6f62fba02e73.png" height = 5% width= 5%></pre>
 # Description
 This repository contains Vagrant projects taught by ALX. These projects are part of the first semester. Other projects like C, Python, Javascript, SQL, and bash are included in a separate repository.
 # Projects
